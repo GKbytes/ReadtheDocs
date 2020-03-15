@@ -2,4 +2,4 @@ site_name: FOC 笔记
 nav:
    - Home: index.md
    - About: about.md
-theme: readthedocs
+# theme: readthedocs
