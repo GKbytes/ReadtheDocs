@@ -1,1 +1,5 @@
-site_name: FOC 学习
+site_name: FOC 笔记
+nav:
+   - Home: index.md
+   - About: about.md
+
