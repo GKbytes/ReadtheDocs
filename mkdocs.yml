@@ -1,5 +1,22 @@
 site_name: FOC 笔记
+
+repo_url: https://github.com/GKbytes/ReadtheDocs
+edit_uri: ""
+
 nav:
-   - Home: index.md
-   - About: about.md
+   - 主页: index.md
+   - 建站: 如何建站/ReadtheDocs.md
+   - Vesc: 
+        - 了解Vesc: Vesc/了解Vesc.md
+   - 关于:
+        - 许可: about/license.md
+# 加入css后，各种屏幕都能适应。
+extra_css:
+    - css/extra.css
+
+
+
+
+copyright: Copyright &copy; 2020-2030 Gkbytes All Rights Reserved.
+
 # theme: readthedocs
