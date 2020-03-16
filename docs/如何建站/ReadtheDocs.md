@@ -4,16 +4,17 @@
 
 # MkDocs+Github+ReadtheDocs
 
-<center>By Gkbytes<center/>
-<center>sphinx vs MkDocs <center/>
+By Gkbytes
 
 
 
-
+sphinx vs MkDocs 
 
 
 
 sphinx 对mk的支持不是很好，所以选择MkDocs。
+
+
 
 教程如下:
 
