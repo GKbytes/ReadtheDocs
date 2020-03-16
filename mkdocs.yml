@@ -8,6 +8,7 @@ nav:
    - 建站: 如何建站/ReadtheDocs.md
    - Vesc: 
         - 了解Vesc: Vesc/了解Vesc.md
+        - Vesc-bldc 环境到编译再到下载: Vesc/Vesc-bldc 环境到编译再到下载.md
    - 关于:
         - 许可: about/license.md
 # 加入css后，各种屏幕都能适应。
