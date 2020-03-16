@@ -2,7 +2,7 @@
 
 
 
-MkDocs+Github+ReadtheDocs
+# MkDocs+Github+ReadtheDocs
 
 sphinx vs MkDocs 
 
@@ -19,7 +19,7 @@ sphinx 对mk的支持不是很好，所以选择MkDocs。
 - [搭建过程](https://zj-sphinx-github-readthedocs.readthedocs.io/en/latest/)
 
   
-## 搭建本地MkDocs环境，并设置MkDocs工程
+## 搭建本地MkDocs环境，搭建MkDocs工程
 MkDocs是一个简单、便捷的工程文档生成器。
 
 
