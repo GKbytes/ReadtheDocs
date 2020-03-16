@@ -1,17 +1,30 @@
-# 笔记
+![](https://gitee.com/kbytes/Photos_CSDN/raw/master/1584347957_20200316163746297_1999620863.png)
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+---
+<center>一定要有所得，有所失，才谈得上勇气。<center/>
 
-## Commands
+---
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+![](https://gitee.com/kbytes/Photos_CSDN/raw/master/1584344633_20200316153742623_453711899.png)
