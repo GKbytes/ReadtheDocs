@@ -6,7 +6,8 @@ edit_uri: ""
 nav:
    - 主页: index.md
    - 建站: 如何建站/ReadtheDocs.md
-   - ESC of sensorless BLDC: ESC of sensorless BLDC/三个基本定则.md
+   - ESC of sensorless BLDC: 
+                           - ESC of sensorless BLDC: ESC of sensorless BLDC/三个基本定则.md
    - Vesc: 
         - 了解Vesc: Vesc/了解Vesc.md
         - Vesc-bldc 环境到编译再到下载: Vesc/Vesc-bldc 环境到编译再到下载.md
