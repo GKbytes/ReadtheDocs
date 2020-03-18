@@ -9,6 +9,7 @@ nav:
    - ESC of sensorless BLDC: 
                            - 三个基本定则: ESC of sensorless BLDC/三个基本定则.md
                            - 内转子无刷直流电机的工作原理: ESC of sensorless BLDC/内转子无刷直流电机的工作原理.md
+                           - 外转子无刷直流电机的工作原理: ESC of sensorless BLDC/外转子无刷直流电机的工作原理.md
    - Vesc: 
         - 了解Vesc: Vesc/了解Vesc.md
         - Vesc-bldc 环境到编译再到下载: Vesc/Vesc-bldc 环境到编译再到下载.md
